@@ -1,8 +1,11 @@
 # solana-auth-counter-program
 
 $ git clone https://github.com/energeticlee/solana-auth-counter-program.git
+
 $ cd tracker
+
 $ yarn install
+
 $ anchor test
 
 ## test
